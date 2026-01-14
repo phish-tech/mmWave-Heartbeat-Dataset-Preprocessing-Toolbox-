@@ -23,5 +23,8 @@ If you encounter issues downloading the dataset or have questions about the code
 
 Boyuan Gu (guboyuan79@gmail.com)
 
+📢 **New: Looking for more mmWave resources (Datasets, Papers, Hardware)? Check out our curated** [Awesome-mmWave-Sensing Roadmap](https://github.com/phish-tech/awesome-mmwave-sensing)!
+
 ## 📈 Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=phish-tech/mmWave-Heartbeat-Dataset-Preprocessing-Toolbox-&type=Date)](https://star-history.com/#phish-tech/mmWave-Heartbeat-Dataset-Preprocessing-Toolbox-&Date)
+

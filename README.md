@@ -23,6 +23,11 @@ If you encounter issues downloading the dataset or have questions about the code
 
 Boyuan Gu (guboyuan79@gmail.com)
 
+📄 Cite：
+
+B. Gu, Y. Yang, S. You, H. Sun, J. Sun and S. Guo, "Improved VMD Based Remote Heartbeat Estimation Utilizing 60GHz mmWave Radar," 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Vienna, Austria, 2025, pp. 4635-4640, doi: 10.1109/SMC58881.2025.11342664.
+
+
 📢 **New: Looking for more mmWave resources (Datasets, Papers, Hardware)? Check out our curated** [Awesome-mmWave-Sensing Roadmap](https://github.com/phish-tech/awesome-mmwave-sensing)!
 
 ## 📈 Star History
